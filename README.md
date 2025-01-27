@@ -1,4 +1,4 @@
-# Master-Thesis
+# Master-Thesis-Submission
 This repository groups all documents related to my Master Thesis submission.
 Included are:
 
